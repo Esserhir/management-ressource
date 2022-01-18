@@ -1,1 +1,1 @@
-# management-ressource
+# management-ressources
